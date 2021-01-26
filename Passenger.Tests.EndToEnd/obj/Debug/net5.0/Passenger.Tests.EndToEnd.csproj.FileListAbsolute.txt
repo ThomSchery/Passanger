@@ -1,0 +1,12 @@
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\bin\Debug\net5.0\Passenger.Tests.EndToEnd.deps.json
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\bin\Debug\net5.0\Passenger.Tests.EndToEnd.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\bin\Debug\net5.0\ref\Passenger.Tests.EndToEnd.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\bin\Debug\net5.0\Passenger.Tests.EndToEnd.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.csprojAssemblyReference.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.AssemblyInfo.cs
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\ref\Passenger.Tests.EndToEnd.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests.EndToEnd\obj\Debug\net5.0\Passenger.Tests.EndToEnd.pdb

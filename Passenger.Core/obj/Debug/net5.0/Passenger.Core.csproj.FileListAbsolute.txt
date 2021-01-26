@@ -1,0 +1,12 @@
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\bin\Debug\net5.0\Passenger.Core.deps.json
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\bin\Debug\net5.0\Passenger.Core.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\bin\Debug\net5.0\ref\Passenger.Core.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\bin\Debug\net5.0\Passenger.Core.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.csprojAssemblyReference.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.AssemblyInfo.cs
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\ref\Passenger.Core.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Core\obj\Debug\net5.0\Passenger.Core.pdb

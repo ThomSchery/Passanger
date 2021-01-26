@@ -1,0 +1,17 @@
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Tests.deps.json
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Tests.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\ref\Passenger.Tests.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Tests.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Core.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Infrastructure.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Core.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\bin\Debug\net5.0\Passenger.Infrastructure.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.csprojAssemblyReference.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.AssemblyInfo.cs
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.csproj.CopyComplete
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\ref\Passenger.Tests.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Tests\obj\Debug\net5.0\Passenger.Tests.pdb

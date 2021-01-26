@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Passenger.Tests.EndToEnd/1.0.0": {
+        "runtime": {
+          "Passenger.Tests.EndToEnd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passenger.Tests.EndToEnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

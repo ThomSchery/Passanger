@@ -1,0 +1,15 @@
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\bin\Debug\net5.0\Passenger.Infrastructure.deps.json
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\bin\Debug\net5.0\Passenger.Infrastructure.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\bin\Debug\net5.0\ref\Passenger.Infrastructure.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\bin\Debug\net5.0\Passenger.Infrastructure.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\bin\Debug\net5.0\Passenger.Core.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\bin\Debug\net5.0\Passenger.Core.pdb
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.csproj.CopyComplete
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\ref\Passenger.Infrastructure.dll
+C:\Users\Tomek\Documents\VisualStudioCode\Projekty\Passanger\Passenger.Infrastructure\obj\Debug\net5.0\Passenger.Infrastructure.pdb

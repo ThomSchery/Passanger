@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Passenger.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Passenger.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passenger.Core/1.0.0": {
+      "type": "project",
+      "path": "../Passenger.Core/Passenger.Core.csproj",
+      "msbuildProject": "../Passenger.Core/Passenger.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Passenger.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tomek\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Tomek\\Documents\\VisualStudioCode\\Projekty\\Passanger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+      "projectName": "Passenger.Infrastructure",
+      "projectPath": "C:\\Users\\Tomek\\Documents\\VisualStudioCode\\Projekty\\Passanger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Tomek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tomek\\Documents\\VisualStudioCode\\Projekty\\Passanger\\Passenger.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Tomek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Tomek\\Documents\\VisualStudioCode\\Projekty\\Passanger\\Passenger.Core\\Passenger.Core.csproj": {
+              "projectPath": "C:\\Users\\Tomek\\Documents\\VisualStudioCode\\Projekty\\Passanger\\Passenger.Core\\Passenger.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

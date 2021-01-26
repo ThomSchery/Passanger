@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Passenger.Tests/1.0.0": {
+        "dependencies": {
+          "Passenger.Core": "1.0.0",
+          "Passenger.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Passenger.Tests.dll": {}
+        }
+      },
+      "Passenger.Core/1.0.0": {
+        "runtime": {
+          "Passenger.Core.dll": {}
+        }
+      },
+      "Passenger.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Passenger.Core": "1.0.0"
+        },
+        "runtime": {
+          "Passenger.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passenger.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Passenger.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Passenger.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
