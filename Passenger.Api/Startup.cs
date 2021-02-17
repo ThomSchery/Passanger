@@ -8,6 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Passenger.Core.Repositories;
+using Passenger.Infrastructure.Repositories;
+using Passenger.Infrastructure.Services;
 
 namespace Passenger.Api
 {
@@ -24,6 +27,8 @@ namespace Passenger.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddScoped<IUserRepository,  InMemoryUserRepository>();
+            services.AddScoped<IUserService, UserService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

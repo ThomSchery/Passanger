@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Passenger.Core\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Passenger.Core\Passenger.Core.csproj" />
   </ItemGroup>
 
